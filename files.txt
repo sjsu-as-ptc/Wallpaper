@@ -1,20 +1,17 @@
-https://sjsu-as-ptc.github.io/wallpaper/i/1.png c:\wallapers\1.png
-#None
-https://sjsu-as-ptc.github.io/wallpaper/i/2.png c:\wallapers\2.jpg
-#Nne
-https://sjsu-as-ptc.github.io/wallpaper/i/3.png c:\wallapers\3.png
-#None
-https://sjsu-as-ptc.github.io/wallpaper/i/4.png c:\wallapers\4.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/5.png c:\wallapers\5.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/6.png c:\wallapers\6.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/7.png c:\wallapers\7.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/8.png c:\wallapers\8.png
-https://sjsu-as-ptc.github.io/wallpaper/i/9.jpg c:\wallapers\9.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/10.jpg c:\wallapers\10.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/11.png c:\wallapers\11.png
-https://sjsu-as-ptc.github.io/wallpaper/i/12.png c:\wallapers\12.png
-https://sjsu-as-ptc.github.io/wallpaper/i/13.png c:\wallapers\13.png
-https://sjsu-as-ptc.github.io/wallpaper/i/14.png c:\wallapers\14.png
-https://sjsu-as-ptc.github.io/wallpaper/i/15.jpg c:\wallapers\15.jpg
-https://sjsu-as-ptc.github.io/wallpaper/i/16.png c:\wallapers\16.png
-https://sjsu-as-ptc.github.io/wallpaper/i/17.png c:\wallapers\17.png
+https://sjsu-as-ptc.github.io/wallpaper/i/1.png
+https://sjsu-as-ptc.github.io/wallpaper/i/2.png
+https://sjsu-as-ptc.github.io/wallpaper/i/3.png
+https://sjsu-as-ptc.github.io/wallpaper/i/4.png
+https://sjsu-as-ptc.github.io/wallpaper/i/5.png
+https://sjsu-as-ptc.github.io/wallpaper/i/6.png
+https://sjsu-as-ptc.github.io/wallpaper/i/7.png
+https://sjsu-as-ptc.github.io/wallpaper/i/8.png
+https://sjsu-as-ptc.github.io/wallpaper/i/9.jpg
+https://sjsu-as-ptc.github.io/wallpaper/i/10.jpg
+https://sjsu-as-ptc.github.io/wallpaper/i/11.png
+https://sjsu-as-ptc.github.io/wallpaper/i/12.png
+https://sjsu-as-ptc.github.io/wallpaper/i/13.png
+https://sjsu-as-ptc.github.io/wallpaper/i/14.png
+https://sjsu-as-ptc.github.io/wallpaper/i/15.jpg
+https://sjsu-as-ptc.github.io/wallpaper/i/16.png
+https://sjsu-as-ptc.github.io/wallpaper/i/17.png
