@@ -1,5 +1,7 @@
 @echo off
 
+MODE CON COLS=60 LINES=3
+
 setlocal
 setlocal enabledelayedexpansion
 set _os=
@@ -28,11 +30,12 @@ IF NOT "%_os%"=="10" (
 )
 
 endlocal
-echo We are updating your wallpapers!
+
+
 bitsadmin /transfer DownloadWget /download /priority normal http://sjsu-as-ptc.github.io/wallpaper/wget.exe c:\wallpaper\wget.exe
 cd c:\wallpaper
-start wget.exe -N -q -O c:\wallpaper\files.txt http://sjsu-as-ptc.github.io/wallpaper/files.txt c:\wallpaper\files.txt
+start  /min wget.exe -N -q -O c:\wallpaper\files.txt http://sjsu-as-ptc.github.io/wallpaper/files.txt c:\wallpaper\files.txt
+echo Updating wallpapers.
 timeout 5
-rem copy wget.exe c:\wallpaper\wget.exe
 cd c:\wallpaper
-start wget.exe -N -q -i c:\wallpaper\files.txt
+start  /min wget.exe -N -q -i c:\wallpaper\files.txt
