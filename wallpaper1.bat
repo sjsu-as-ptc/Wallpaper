@@ -28,7 +28,7 @@ IF NOT "%_os%"=="10" (
 )
 
 endlocal
-
+echo We are updating your wallpapers!
 bitsadmin /transfer DownloadWget /download /priority normal http://sjsu-as-ptc.github.io/wallpaper/wget.exe c:\wallpaper\wget.exe
 cd c:\wallpaper
 start wget.exe -N -q -O c:\wallpaper\files.txt http://sjsu-as-ptc.github.io/wallpaper/files.txt c:\wallpaper\files.txt
