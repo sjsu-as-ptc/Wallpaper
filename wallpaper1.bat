@@ -1,8 +1,7 @@
-rem @echo off
+@echo off
 
-bitsadmin /create WallpaperScriptDownload
-bitsadmin /transfer WallpaperScriptDownload /download /priority normal http://sjsu-as-ptc.github.io/wallpaper/files.txt c:\wallpaper\files.txt
-bitsadmin /create wallpaper15
-bitsadmin /addfileset wallpaper15 c:\wallpaper\files.txt
-rem bitsadmin /transfer wallpaper15 /download /priority normal c:\wallpaper\name.ext
-pause 5
+start wget.exe -N -q -O c:\wallpaper\files.txt http://sjsu-as-ptc.github.io/wallpaper/files.txt c:\wallpaper\files.txt
+timeout 5
+copy wget.exe c:\wallpaper\wget.exe
+cd c:\wallpaper
+start wget.exe -N -q -i c:\wallpaper\files.txt
