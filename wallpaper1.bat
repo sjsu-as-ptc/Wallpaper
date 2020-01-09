@@ -25,7 +25,7 @@ rem echo Architecture: %_bits%
 
 IF NOT "%_os%"=="10" (
     echo OS NOT SUPPORTED
-    timeout 5
+    timeout 2
     exit
 )
 
